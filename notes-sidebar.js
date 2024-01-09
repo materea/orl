@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', function () {
         "Common Diseases of the Pinna and External Auditory Canal",
         "External and Middle Ear Surgery",
         "Adenoiditis",
+        "Pharyngitis",
+        "Tonsillitis",
       // Add more topics as needed
     ];
 
