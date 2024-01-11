@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
     "Adenoiditis",
     "Pharyngitis",
     "Tonsillitis",
-    "Peritonsillar, Retropharyngeal, Parapharyngeal Abscess",
+    "Peritonsillar Retropharyngeal Parapharyngeal Abscess",
     "Differential Diagnosis of Neck Nodes and Masses",
 
     // Add more topics as needed
