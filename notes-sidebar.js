@@ -11,6 +11,8 @@ document.addEventListener('DOMContentLoaded', function () {
     "Tonsillitis",
     "Peritonsillar Retropharyngeal Parapharyngeal Abscess",
     "Differential Diagnosis of Neck Nodes and Masses",
+    "Chronic Suppurative Otitis Media",
+    "Deafness",
 
     // Add more topics as needed
   ];
